@@ -18,6 +18,7 @@
   - [Sustainability](./sustainability.md)
   - [Transformers](./transformers.md)
   - [AMD](./amd.md)
+  - [Text-based World Model](./textworldmodel.md)
 
 **Useful Lists**
   - [World Model Live List](./listworldm.md)
