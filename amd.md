@@ -26,7 +26,7 @@
 AMD challenge hosted by GPU-Mode to write a kernel for all2all transfers in single-node, multi-gpu setup.
 
 ### Useful Links
-[Github repository](https://github.com/moonmath-ai/amd-all2all).
-[Challenge submission portal](https://www.gpumode.com/v2/leaderboard/563?tab=reference).
-[GPU Mode's Github repo](https://github.com/gpu-mode/reference-kernels/tree/main/problems/amd_distributed) - containing all relevant evaluation and environment files.
-[GPU Mode's discord](https://discord.com/invite/gpumode).
+- [Github repository](https://github.com/moonmath-ai/amd-all2all).
+- [Challenge submission portal](https://www.gpumode.com/v2/leaderboard/563?tab=reference).
+- [GPU Mode's Github repo](https://github.com/gpu-mode/reference-kernels/tree/main/problems/amd_distributed) - containing all relevant evaluation and environment files.
+- [GPU Mode's discord](https://discord.com/invite/gpumode).
