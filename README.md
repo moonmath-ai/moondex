@@ -2,7 +2,7 @@
 MoonMath.ai’s index of knowledge
 
 # Categories
-- (Hands On)
+- [Hands On](./handson)
 - (Resources)
   - (Attention Optimization)
   - (Federated Learning)
