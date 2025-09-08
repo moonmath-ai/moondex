@@ -1,5 +1,6 @@
 # MoonDex
-MoonMath.ai’s index of knowledge
+
+<img width="350" height="350" alt="moondex image" src="https://github.com/user-attachments/assets/9b281956-43f3-430b-a566-6328a2efc2f0" />
 
 ---
 
